@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Alec Williams
 
-You can use the [editor on GitHub](https://github.com/9alecj/9alecj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Software Engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+#### Elsevier - Software Engineer II
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+June 2016 - Present, Philadelphia PA
 
-```markdown
-Syntax highlighted code block
+- Maintain and Develop .NET applications from various iterations of the .NET framework including .NET core 1 & 2. - Contribute to the management of continuous integration efforts including use of Octopus Deploy and Jenkins.
+- Front-end development with ASP.net, angular (multiple versions), Bootstrap, TypeScript
+- Research and deploy use of AWS services such as
+  - use of use of Elastic search and Kibana for logs.
+  - DynamoDB
+  - Lambda with .NET core
 
-# Header 1
-## Header 2
-### Header 3
+#### Comcast - Tools Developer Co-op
 
-- Bulleted
-- List
+April 2015 - September 2015, Philadelphia PA
 
-1. Numbered
-2. List
+- develop tools for Web QA team including a .NET Selenium and ImageMagick website UI testing app
 
-**Bold** and _Italic_ and `Code` text
+#### Siemens - Mobile Testing Co-op
 
-[Link](url) and ![Image](src)
-```
+April 2014 - September 2014, Malvern PA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Write, document and run manual test cases for a mobile web application
 
-### Jekyll Themes
+### Education and Certifications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/9alecj/9alecj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Drexel University, Bachelor of Science Information Technology
 
-### Support or Contact
+  September 2011 - June 2016
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [AWS Solutions Architect Associate] (https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-11-03&ci=AWS00319620)
+
+  November 2017 - November 2019
+
+#### Scrum Alliance, Ceritified Scrum Master
+
+  November 2017 - November 2019
+
