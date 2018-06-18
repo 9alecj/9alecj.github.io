@@ -33,8 +33,8 @@ April 2014 - September 2014, Malvern PA
 
   September 2011 - June 2016
 
-#### [AWS Solutions Architect Associate] (https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-11-03&ci=AWS00319620)
-
+#### AWS Solutions Architect Associate
+  [AWS Solutions Architect Associate Certificate] (https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-11-03&ci=AWS00319620)
   November 2017 - November 2019
 
 #### Scrum Alliance, Ceritified Scrum Master
